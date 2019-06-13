@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Traps
+  - Boss
+  - Zombie
+  - Vampire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2786024663
+    locked: 0
+  - name: Tiles
+    uniqueID: 3904199527
+    locked: 0
+  - name: Traps
+    uniqueID: 288240713
+    locked: 0
+  - name: Enemies
+    uniqueID: 135816055
+    locked: 0
+  - name: Player
+    uniqueID: 3051813037
+    locked: 0
